@@ -60,7 +60,7 @@ project-root
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/slot-booking-app.git
+git clone https://github.com/Harsh231075/slot-booking-app.git
 cd slot-booking-app
 
 ```
